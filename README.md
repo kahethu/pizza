@@ -14,6 +14,10 @@ This project was done on SQL server 2022
 ## Data Visualization
 Data visualization was done in Microsoft Power BI
 
+![pizza-sales-report](https://github.com/kahethu/pizza/assets/27964625/ca0416db-6897-46df-8c0d-156531548e4e)
+
+![pizza-sales-report-1](https://github.com/kahethu/pizza/assets/27964625/99bcef03-08dd-4b23-885e-fd5953f46b77)
+
 
 ## QUESTIONS TO BE ANSWERED:
 ### KPIs
