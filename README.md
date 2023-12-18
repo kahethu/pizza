@@ -3,10 +3,17 @@ The raw data for this project is presented in 4 CSV files. This data represents 
 
 The project is done in Microsoft SQL server and presented in Power BI. The data was loaded into 4 tables. This project involves the use of simple joins and sub-queries. 
 
-Data source:
-https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
+## Data source:
+You can download the data from https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
 
-The project seeks to answer the following questions:
+A zip file is also included in this repository.
+
+## Data Analysis
+This project was done on SQL server 2022
+
+## Data Visualization
+Data visualization was done in Microsoft Power BI
+
 
 ## QUESTIONS TO BE ANSWERED:
 ### KPIs
@@ -38,7 +45,7 @@ The project seeks to answer the following questions:
  4) Total Orders – 21,000
  5) Average Pizzas per Order – 2
 
-### QUESTIONS
+### ANSWER TO QUESTIONS
  1) The busiest days are Thursday (3239 orders), Friday (3538 orders) and Saturday (3158 orders). Most sales are recorded on Friday
  2) Most orders are placed between 12pm to 1pm, and 5pm to 7pm
  3) Classic pizza has the highest percentage sales (26.91%), followed by Supreme (25.46%), Chicken (23.96%) and Veggie (23.68%) pizzas 
