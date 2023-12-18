@@ -55,3 +55,13 @@ Since XL and XXL pizzas account for such a small percentage of their sales (just
 
 Even though the Brie Carre pizza is the worst seller, it recorded 490 pizzas sold. It would still be a good idea to keep it in the menu. 
 
+
+## QUERIES USED:
+You can download all the full queries from the SQL file in this repository. Below is a summary of the main queries:
+
+-- KPIs
+
+-- 1) Total Revenue
+-- a) verify that the price given is for one pizza
+
+
